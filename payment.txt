@@ -1,0 +1,4 @@
+paytm
+amazon pay
+phonepay
+google pay
